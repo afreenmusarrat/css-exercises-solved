@@ -1,0 +1,13 @@
+.blk, .yel {
+    font-style: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.blk{
+    background-color: black;
+    color: white;
+}
+
+.yel{
+    background-color: yellow;
+}

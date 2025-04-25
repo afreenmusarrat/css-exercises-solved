@@ -1,0 +1,26 @@
+/* TYPE SELECTOR : DIV
+div{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/*DESCENDANT COMBINATOR
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center; 
+}
+*/
+
+/*TYPE & CLASS SELECTOR*/
+
+div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
